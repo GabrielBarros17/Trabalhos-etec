@@ -39,7 +39,7 @@
 <body>
     <div class="content">
         <center>
-            <a hrref="Lista da Festa.html" class="btn button">Teste</a>
+            <a href="Lista da Festa.html" class="btn button bg-dark">Teste</a>
             <div class="rounded-5 container-sm w-50 bg-dark text-white">
                 <h1 class="mt-5">Lista para a festa</h1>
                 <div class="container text-center mt-1">
