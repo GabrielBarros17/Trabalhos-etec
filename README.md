@@ -88,7 +88,7 @@
         </center>
     </div>
 
-    <footer class="d-flex flex-wrap justify-content-between align-items-center border-white border-top footer">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center fixed-bottom border-white border-top footer">
         <div class="d-flex align-items-center">
             <a href="/" class="mb-3 me-2"></a>
             <span class="text-white">Jhonnatan Paulino Nº19 & Gabriel Souza Nº17</span>
